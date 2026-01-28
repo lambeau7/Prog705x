@@ -31,6 +31,8 @@ public class lang705x {
         }
 
         System.out.println("The secret phrase is: " + Secret);
+        // DIE DIE DIE DIE
+        // MURDER MURDER
 
     }
 }
